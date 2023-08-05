@@ -32,7 +32,7 @@ load_dotenv()
 openai.api_key="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"
 os.environ["OPENAI_API_KEY"] = "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"
 
-openai.api_key="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"
+openai.api_key="sk-"
 
 def process_text(text):
     # Split the text into chunks using Langchain's CharacterTextSplitter
